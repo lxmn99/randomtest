@@ -2,3 +2,4 @@ blue
 green
 red adde d
 it is added
+is is not added
